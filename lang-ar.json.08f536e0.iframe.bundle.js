@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[24],{1438:function(module){module.exports=JSON.parse('{"about":{"title":"حول Openverse"},"footer":{"aria":{"donate":"قسم التبرّع","contact":"معلومات الاتصال"},"navigation":{"terms":"الشروط","policies":"السياسات","privacy":"الخصوصية","contact":"الاتصال"}},"header":{"resources-tab":"المصادر","about-tab":"حول"}}')}}]);

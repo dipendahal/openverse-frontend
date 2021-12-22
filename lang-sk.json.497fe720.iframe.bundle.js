@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[54],{1439:function(module){module.exports=JSON.parse('{"notification":{"translation":{"link":"prispievanie prekladom"},"okay":"OK","dismiss":"Odmietnuť"},"modal":{"close":"Zavrieť"},"search":{"search":"Vyhľadávanie"},"play-pause":{"replay":"Prehrať znova"},"hero":{"search-type":{"image":"Obrázky","audio":"Zvuk"}}}')}}]);
